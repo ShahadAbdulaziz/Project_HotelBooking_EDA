@@ -1,3 +1,3 @@
 # Project_HotelBooking_EDA
 
-<img src="/hotel.jpg" alt="drawing" width="200"/>
+<img src="/hotel.jpg" alt="drawing" width="500"/>
