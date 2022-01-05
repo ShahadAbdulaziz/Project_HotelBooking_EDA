@@ -8,10 +8,11 @@ The purpose of this analysis cancellations, whether resorts or city hotels, And 
 
 Questions:
 
-Which are the most cancelled month?
-Which are the most cancelled year?
-Which is the most reserved room type?
-What is the most requested meal?
+Which are the most cancelled type of hotel ? </br>
+Which are the most cancelled year?   </br>
+Which are the most cancelled month? </br>
+Which is the most reserved room type?  </br>
+Which are the most cancelled Deposit type ?  </br>
 
 Data Description:
 
